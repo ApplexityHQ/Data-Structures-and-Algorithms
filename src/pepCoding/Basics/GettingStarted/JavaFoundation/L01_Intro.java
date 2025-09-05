@@ -1,6 +1,6 @@
 package pepCoding.Basics.GettingStarted.JavaFoundation;
 
-public class Intro {
+public class L01_Intro {
     public static void main(String[] args) {
         System.out.println("Hello Captain ShaqX");
 
