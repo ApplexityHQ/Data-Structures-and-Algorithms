@@ -19,7 +19,7 @@ public class p3starPattern1 {
 
         for (int row = 1; row <= n; row++) {
             for (int col = 1; col <= n; col++) {
-                if(row => col) System.out.println("* ");
+                if(row >= col) System.out.println("* ");
                 else System.out.print("");
             }
         }
