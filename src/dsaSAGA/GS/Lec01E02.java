@@ -107,96 +107,82 @@ public class Lec01E02 {
         char ch3 = (char)vaar3;
         System.out.println(ch3);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-        /*
-        *
-        * ======== 1. Boiler Plate ==========
-        *
-        *   import java.util.*;
-        *   public class Main{
-        *         public static void main (Strings[] args) {
-        *          // code here
-        *          }
-        *   }
-        *
-        *   - Notes:
-        *       - It's a case sensitive language (Small/Capital letter)
-        *       - With Identation code looks clear
-        *
-        * ======= 2. Print stmts ================
-        *   - println("") : Print with a new line
-        *   - print("") : Print without a new line ( with an enter, after printing )
-        *
-        *
-        *
-        * ============ Data Types and Variables continued ...  ==========================
-        *
-        * 1. Numerical Datatypes and their Ranges:
-        *       - learn std ranges to save from Overflow
-        *       - our Number system follows Cyclic no. sys.
-        *       - i.e adding 1 to max value will give you the -ve
-        * ================================================================
-        *
-        *
-        * note:
-        *  - Java doesn't have pointers
-        *  - therefore, we cannot get the address of a variable, unlike c++.
-        *  - java follows Unicode (superset of ASCII)
-        *  65 - 90 : A - Z
-        *  97 - 122 : a - z
-        *  48 - 60 : 0 - 9
-        *  0 : null
-        *
-        *
-        *
-        * =============== Arithmetics ===================
-        *
-        * Operators:
-        * 1. Unary optr
-        * 2. Binary optr
-        *
-        *
-        *
-        *
-        * ========= Concatenation =================
-        *
-        *
-        *
-        *
-        *
-        *
-        * ================ Typecasting ==============================
-        * 1. Upcasting
-        * 2. Downcasting
-        *
-        * Implicit and Explicit type conversion
-        *
-        *
-        *
-        *
-        *
-        *
-        *
-        *
-        *
-        *
-        * */
-
-
-
-
-
     }
 }
+
+/*
+ *
+ * ======== 1. Boiler Plate ==========
+ *
+ *   import java.util.*;
+ *   public class Main{
+ *         public static void main (Strings[] args) {
+ *          // code here
+ *          }
+ *   }
+ *
+ *   - Notes:
+ *       - It's a case sensitive language (Small/Capital letter)
+ *       - With Identation code looks clear
+ *
+ * ======= 2. Print stmts ================
+ *   - println("") : Print with a new line
+ *   - print("") : Print without a new line ( with an enter, after printing )
+ *
+ *
+ *
+ * ============ Data Types and Variables continued ...  ==========================
+ *
+ * 1. Numerical Datatypes and their Ranges:
+ *       - learn std ranges to save from Overflow
+ *       - our Number system follows Cyclic no. sys.
+ *       - i.e adding 1 to max value will give you the -ve
+ * ================================================================
+ *
+ *
+ * note:
+ *  - Java doesn't have pointers
+ *  - therefore, we cannot get the address of a variable, unlike c++.
+ *  - java follows Unicode (superset of ASCII)
+ *  65 - 90 : A - Z
+ *  97 - 122 : a - z
+ *  48 - 60 : 0 - 9
+ *  0 : null
+ *
+ *
+ *
+ * =============== Arithmetics ===================
+ *
+ * Operators:
+ * 1. Unary optr
+ * 2. Binary optr
+ *
+ *
+ *
+ *
+ * ========= Concatenation =================
+ *
+ *
+ *
+ *
+ *
+ *
+ * ================ Typecasting ==============================
+ * 1. Upcasting
+ * 2. Downcasting
+ *
+ * Implicit and Explicit type conversion
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ *
+ * */
+
+
+

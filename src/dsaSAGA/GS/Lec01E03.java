@@ -33,10 +33,10 @@ public class Lec01E03 {
 
         // Taking inputs, nextInt will stop at taking input once it'll come across either at a space or enter character.
 
-        String firstName = "Bhawesh";
+        String firstName = "Applexity";
         System.out.println("Your First Name: " + firstName);
 
-        String str = "CapX bhaweshchoudhary600@gmail.com";
+        String str = "AppX teat@gmail.com";
         System.out.println(str);
 
         String name = scn.nextLine();
