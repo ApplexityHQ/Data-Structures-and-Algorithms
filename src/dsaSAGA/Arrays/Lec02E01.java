@@ -48,6 +48,6 @@ public class Lec02E01 {
     public static void printArray(int[] nums) {
         for (int idx = 0; idx < nums.length; idx++) {
             System.out.println(nums[idx] + " ");
-        }
+        } 
     }
 }
