@@ -89,7 +89,7 @@ public class Lec01E01 {
         * In Java, local variables must be initialized before use, else the compiler throws an error.
         * In C++, uninitialized local variables are allowed but contain undefined (garbage) values.
         * ==========================================================================================
-        *
+        * Test & revise lectures
         *
         * */
 
