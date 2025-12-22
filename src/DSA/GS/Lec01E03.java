@@ -1,4 +1,4 @@
-package dsaSAGA.GS;
+package DSA.GS;
 
 import java.util.Scanner;
 

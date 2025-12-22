@@ -1,4 +1,4 @@
-package dsaSAGA.GS;
+package DSA.GS;
 
 public class Lec1E10 {
 
