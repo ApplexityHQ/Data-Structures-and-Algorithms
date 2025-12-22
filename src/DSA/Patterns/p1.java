@@ -1,4 +1,4 @@
-package dsaSAGA.Patterns;
+package DSA.Patterns;
 
 public class p1 {
     public static void main(String[] args) {

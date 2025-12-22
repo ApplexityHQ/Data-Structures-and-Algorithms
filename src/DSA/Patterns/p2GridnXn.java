@@ -1,4 +1,4 @@
-package dsaSAGA.Patterns;
+package DSA.Patterns;
 
 import java.util.Scanner;
 

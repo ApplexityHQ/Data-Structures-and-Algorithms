@@ -1,4 +1,4 @@
-package dsaSAGA.GS;
+package DSA.GS;
 
 public class Lec01E02 {
     public static void main(String[] args) {
