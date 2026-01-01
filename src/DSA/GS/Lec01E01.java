@@ -5,24 +5,40 @@ package DSA.GS;
 public class Lec01E01 {
     public static void main(String[] args) {
 
-        System.out.print("Hello World");
-        System.out.print("DSA");
-        System.out.print("34689523465>?");
-        //  The output of will be on same line without an Enter.
+//        System.out.print("Hello World");
+//        System.out.print("DSA");
+//        System.out.print("34689523465>?");
+//        //  The output of will be on same line without an Enter.
+//
+//        System.out.println("Hello world in New Line");
+//        System.out.println("First Line without an enter.");
+//        System.out.println("Second Line with a new line or enter");
+//        //  The output of will be on new line with an Enter after each line.
+//
+//        int marks = 29; // Dynamic initialization : when we declare and initialize at the same time
+//        System.out.println("marks");
+//        System.out.println(marks);
 
-        System.out.println("Hello world in New Line");
-        System.out.println("First Line without an enter.");
-        System.out.println("Second Line with a new line or enter");
-        //  The output of will be on new line with an Enter after each line.
+//        // Declare the variable, then initialize and then print/access it.
+//        double percentage = 74.5;
+//        System.out.println("percentage");
+//        System.out.println(percentage);
 
-        int marks = 29; // Dynamic initialization : when we declare and initialize at the same time
-        System.out.println("marks");
-        System.out.println(marks);
-        // Declare the variable, then initialize and then print/access it.
+//        int marks = 95;
+//        System.out.println("marks"); // output: marks
+//        System.out.println(marks); // output: 95
 
-        double percentage = 74.5;
-        System.out.println("percentage");
-        System.out.println(percentage);
+//        System.out.println(percentage);
+//        compiler error (undeclared variable access)
+
+//        double percentage;
+//        System.out.println(percentage);
+//        // compiler error (uninitialized variable access error)
+
+//        double percentage = 94.3;
+//        System.out.println(percentage);
+
+
 
         /*
         * ============================================================
@@ -56,7 +72,7 @@ public class Lec01E01 {
         *
         * ================== Variables & Data Types ==========================
         *
-        * First declare and then initialize, then use.
+        * In Java we First declare the type of data and then initialize, then use.
         *
         * Data Types:       Mostly we'll use: int, char, double, boolean
         * Primitive:        int, char, long, double, float, boolean, short, byte
@@ -64,7 +80,7 @@ public class Lec01E01 {
         * Floating Point:   float, double
         * Boolean:          True/False
         *
-        * (Note: In java True!=1 and False!=0)
+        * (Note: In "java" True!=1 and False!=0)
         * =======================================================================
         *
         *
