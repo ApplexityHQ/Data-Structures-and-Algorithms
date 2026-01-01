@@ -15,7 +15,7 @@ public class Lec01E01 {
         System.out.println("Second Line with a new line or enter");
         //  The output of will be on new line with an Enter after each line.
 
-        int marks = 29;
+        int marks = 29; // Dynamic initialization : when we declare and initialize at the same time
         System.out.println("marks");
         System.out.println(marks);
         // Declare the variable, then initialize and then print/access it.
