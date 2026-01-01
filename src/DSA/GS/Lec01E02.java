@@ -3,6 +3,10 @@ package DSA.GS;
 public class Lec01E02 {
     public static void main(String[] args) {
 
+        double percentage = 93.4;
+        System.out.println(percentage);
+        // updation
+
         // int inf = Integer.MAX_VALUE + 1;
         // System.out.println(inf);
         // infinity + 1 = -infinity

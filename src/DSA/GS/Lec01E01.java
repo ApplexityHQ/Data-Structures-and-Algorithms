@@ -5,38 +5,38 @@ package DSA.GS;
 public class Lec01E01 {
     public static void main(String[] args) {
 
-//        System.out.print("Hello World");
-//        System.out.print("DSA");
-//        System.out.print("34689523465>?");
-//        //  The output of will be on same line without an Enter.
-//
-//        System.out.println("Hello world in New Line");
-//        System.out.println("First Line without an enter.");
-//        System.out.println("Second Line with a new line or enter");
-//        //  The output of will be on new line with an Enter after each line.
-//
-//        int marks = 29; // Dynamic initialization : when we declare and initialize at the same time
-//        System.out.println("marks");
-//        System.out.println(marks);
+        System.out.print("Hello World");
+        System.out.print("DSA");
+        System.out.print("34689523465>?");
+        //  The output of will be on same line without an Enter.
 
-//        // Declare the variable, then initialize and then print/access it.
-//        double percentage = 74.5;
-//        System.out.println("percentage");
-//        System.out.println(percentage);
+        System.out.println("Hello world in New Line");
+        System.out.println("First Line without an enter.");
+        System.out.println("Second Line with a new line or enter");
+        //  The output of will be on new line with an Enter after each line.
 
-//        int marks = 95;
-//        System.out.println("marks"); // output: marks
-//        System.out.println(marks); // output: 95
+        int marks = 29; // Dynamic initialization : when we declare and initialize at the same time
+        System.out.println("marks");
+        System.out.println(marks);
 
-//        System.out.println(percentage);
-//        compiler error (undeclared variable access)
+        // Declare the variable, then initialize and then print/access it.
+        double percentage = 74.5;
+        System.out.println("percentage");
+        System.out.println(percentage);
 
-//        double percentage;
-//        System.out.println(percentage);
-//        // compiler error (uninitialized variable access error)
+        int marks = 95;
+        System.out.println("marks"); // output: marks
+        System.out.println(marks); // output: 95
 
-//        double percentage = 94.3;
-//        System.out.println(percentage);
+        System.out.println(percentage);
+        // compiler error (undeclared variable access)
+
+        double percentage;
+        System.out.println(percentage);
+        // compiler error (uninitialized variable access error)
+
+        double percentage = 94.3;
+        System.out.println(percentage);
 
 
 
