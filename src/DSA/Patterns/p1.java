@@ -12,3 +12,4 @@ public class p1 {
 }
 // Print: * ** *** **** *****
 // no i/p needed.
+// https://www.geeksforgeeks.org/problems/pattern-printing1347/1
